@@ -1,0 +1,9 @@
+D:\C#\nlib\nucs.Emailing\obj\Debug\nucs.Emailing.csprojResolveAssemblyReference.cache
+D:\C#\nlib\nucs.Emailing\bin\Debug\nucs.Emailing.dll
+D:\C#\nlib\nucs.Emailing\bin\Debug\nucs.Emailing.pdb
+D:\C#\nlib\nucs.Emailing\bin\Debug\Newtonsoft.Json.dll
+D:\C#\nlib\nucs.Emailing\bin\Debug\Newtonsoft.Json.xml
+D:\C#\nlib\nucs.Emailing\obj\Debug\nucs.Emailing.dll
+D:\C#\nlib\nucs.Emailing\obj\Debug\nucs.Emailing.pdb
+D:\C#\nlib\nucs.Emailing\bin\Debug\nucs.net45.dll
+D:\C#\nlib\nucs.Emailing\bin\Debug\nucs.net45.pdb
