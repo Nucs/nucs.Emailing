@@ -31,7 +31,7 @@ namespace nucs.Emailing {
 
         public static Email LoadConfiguration(FileInfo file) {
             var s = Settings.AppSettings<Configuration>.Load(file.FullName);
-            var e = new Email() {DefaultSender = s.DefaultSender, EnableSSL = s.EnableSSL, HostIp = s.HostIp, LogDirectoryName = s.LogDirectoryName, Password = ConvertToSecureString(s.Password), Port = s.Port, LogLocally = s.LogLocally, UseDefaultCredentials = s.UseDefaultCredentials, Username = s.Username};
+            var e = new Email() {DefaultSender = s.DefaultSender, EnableSSL = s.EnableSSL, HostIp = s.HostIp, LogDirectoryName = s.LogDirectoryName, Password = ConvertToSecureString(s.Password), Port = s.Port, LogLocally = s.LogLocally, UseDefaultCredentials = s.UseDefaultCredentials, Username = s.Username, DefaultSenderDisplayName = s.DefaultSenderDisplayName};
             return e;
         }
 
